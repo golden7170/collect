@@ -1,0 +1,35 @@
+.mainarea{
+    background: blueviolet;
+    border-radius: 100px;
+}
+
+.minecraftHeader{
+    background: green;
+    color: brown;
+    border-radius: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 650px;
+   
+}
+.intro{
+   width: 700px;
+   background: lightcoral;
+   color: beige;
+   border-radius: 30px;
+   font-size: 16px;
+
+}
+
+
+.locate{
+    background: beige;
+    color: red;
+    width: fit-content;
+    
+}
+.bordercolor{
+    background: aquamarine;
+    border-radius: 100px;
+    
+}
+
